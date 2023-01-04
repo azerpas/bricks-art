@@ -1,0 +1,46 @@
+{
+  "name": "bricks-art",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azerpas/bricks-art.git"
+  },
+  "author": "Anthony (@azerpas)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/azerpas/bricks-art/issues"
+  },
+  "homepage": "https://github.com/azerpas/bricks-art#readme",
+  "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@mantine/carousel": "^5.10.0",
+    "@mantine/core": "^5.10.0",
+    "@mantine/dropzone": "^5.10.0",
+    "@mantine/hooks": "^5.10.0",
+    "@mantine/modals": "^5.10.0",
+    "@mantine/next": "^5.10.0",
+    "@mantine/notifications": "^5.10.0",
+    "@mantine/nprogress": "^5.10.0",
+    "@tabler/icons": "^1.119.0",
+    "@types/d3-color": "^3.1.0",
+    "d3-color": "^3.1.0",
+    "embla-carousel-react": "^7.0.5",
+    "next": "^13.1.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-easy-crop": "^4.6.3"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.18",
+    "@types/react": "^18.0.26",
+    "typescript": "^4.9.4"
+  }
+}
